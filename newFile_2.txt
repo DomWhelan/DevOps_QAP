@@ -1,3 +1,1 @@
 This is the second new file to be added to new branch
-
-Changes made to this file to be committed to GitHub
